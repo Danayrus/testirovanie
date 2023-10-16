@@ -1,0 +1,11 @@
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\bin\Debug\testirovanie_treugl.exe.config
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\bin\Debug\testirovanie_treugl.exe
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\bin\Debug\testirovanie_treugl.pdb
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\obj\Debug\testirovanie_treugl.csproj.AssemblyReference.cache
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\obj\Debug\testirovanie_treugl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\obj\Debug\testirovanie_treugl.Form1.resources
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\obj\Debug\testirovanie_treugl.Properties.Resources.resources
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\obj\Debug\testirovanie_treugl.csproj.GenerateResource.cache
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\obj\Debug\testirovanie_treugl.csproj.CoreCompileInputs.cache
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\obj\Debug\testirovanie_treugl.exe
+C:\Users\Данайрус\source\repos\testirovanie_treugl\testirovanie_treugl\obj\Debug\testirovanie_treugl.pdb

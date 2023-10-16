@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testirovanie_treugl", "testirovanie_treugl\testirovanie_treugl.csproj", "{D6D70DBD-E997-4A45-8C4C-38D93DE18501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D70DBD-E997-4A45-8C4C-38D93DE18501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D70DBD-E997-4A45-8C4C-38D93DE18501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D70DBD-E997-4A45-8C4C-38D93DE18501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D70DBD-E997-4A45-8C4C-38D93DE18501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCB83B53-7712-441B-BD06-D72686A2686E}
+	EndGlobalSection
+EndGlobal
